@@ -9,7 +9,7 @@
     "react-scripts": "3.2.0",
     "uuid": "^3.3.3"
   },
-  "homepage": "https://www.cisqr.com/react_todo",
+  "homepage": "http://mike14mile.github.io/react_todo/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
